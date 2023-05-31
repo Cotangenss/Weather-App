@@ -22,6 +22,7 @@ struct DetailView: View {
             .sheet(isPresented: $isPresenting) {
                 Text("OHLLLALLALALA \(data.high)")
             }
+            Text("NEW COMMMITTTTT")
         }
 
     }
